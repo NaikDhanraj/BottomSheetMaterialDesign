@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomSheetMaterialDesign</string>
+
+    <string name="bottom_sheet">Bottom Sheet</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="print">Print</string>
+    <string name="share">Share</string>
+
+</resources>
